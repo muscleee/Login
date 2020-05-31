@@ -16,20 +16,20 @@ an exe file, can register an account, using firebase to store user information, 
 #
 # User
 
-%![image](https://github.com/muscleee/Login/blob/master/picture/user.png)
+![image](https://github.com/muscleee/Login/blob/master/picture/user.png)
 #
 # Game
 
-%![image](https://github.com/muscleee/Login/blob/master/picture/gameStart.PNG)
+![image](https://github.com/muscleee/Login/blob/master/picture/gameStart.PNG)
 
-%![image](https://github.com/muscleee/Login/blob/master/picture/game.png)
+![image](https://github.com/muscleee/Login/blob/master/picture/game.png)
 
-%![image](https://github.com/muscleee/Login/blob/master/picture/gameEnd.PNG)
+![image](https://github.com/muscleee/Login/blob/master/picture/gameEnd.PNG)
 #
 # Num2Ch
 
-%![image](https://github.com/muscleee/Login/blob/master/picture/num2ch.PNG)
+![image](https://github.com/muscleee/Login/blob/master/picture/num2ch.PNG)
 #
 # Ch2Num
 
-%![image](https://github.com/muscleee/Login/blob/master/picture/ch2num.PNG)
+![image](https://github.com/muscleee/Login/blob/master/picture/ch2num.PNG)
