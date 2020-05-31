@@ -1,12 +1,12 @@
 # Login
 
-an exe file, you can register an account, using firebase to store user information, using pygame to write a game
+an exe file, can register an account, using firebase to store user information, using pygame to write a game
 #
-Home page : 
+# Home page : 
 
 ![image](https://github.com/muscleee/Login/blob/master/picture/home.PNG)
 
-Sign : 
+# Sign : 
 
 ![image](https://github.com/muscleee/Login/blob/master/picture/sign.PNG)
 
