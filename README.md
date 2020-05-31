@@ -20,11 +20,9 @@ an exe file, can register an account, using firebase to store user information, 
 #
 # Game
 
-%![image]()https://github.com/muscleee/Login/blob/master/picture/gameStart.PNG
-
+%![image](https://github.com/muscleee/Login/blob/master/picture/gameStart.PNG)
 
 %![image](https://github.com/muscleee/Login/blob/master/picture/game.png)
-
 
 %![image](https://github.com/muscleee/Login/blob/master/picture/gameEnd.PNG)
 #
