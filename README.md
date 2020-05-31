@@ -16,7 +16,7 @@ an exe file, can register an account, using firebase to store user information, 
 #
 # User
 
-![image](https://github.com/muscleee/Login/blob/master/picture/user.png)
+![image](https://github.com/muscleee/Login/blob/master/picture/user-2.png)
 #
 # Game
 
