@@ -1,6 +1,8 @@
 # Login
 
 an exe file, can register an account, using firebase to store user information, using pygame to write a game
+
+fllowing are the screenshots of the program 
 #
 # Home page : 
 
