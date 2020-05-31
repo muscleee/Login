@@ -13,7 +13,25 @@ an exe file, can register an account, using firebase to store user information, 
 # Wrong confirm password :
 
 ![image](https://github.com/muscleee/Login/blob/master/picture/signWrong.PNG)
+#
+# User
+
+%![image](https://github.com/muscleee/Login/blob/master/picture/user.png)
+#
+# Game
+
+%![image]()https://github.com/muscleee/Login/blob/master/picture/gameStart.PNG
 
 
+%![image](https://github.com/muscleee/Login/blob/master/picture/game.png)
 
-%![image]()
+
+%![image](https://github.com/muscleee/Login/blob/master/picture/gameEnd.PNG)
+#
+# Num2Ch
+
+%![image](https://github.com/muscleee/Login/blob/master/picture/num2ch.PNG)
+#
+# Ch2Num
+
+%![image](https://github.com/muscleee/Login/blob/master/picture/ch2num.PNG)
